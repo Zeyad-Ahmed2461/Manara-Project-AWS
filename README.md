@@ -6,7 +6,7 @@ This architecture hosts a scalable web application on AWS using a 3-tier model (
 
 ## 📊 Architecture Diagram
 
-![Architecture](./Project.jpg)
+![Architecture](./AWS-Manara/Project.jpg)
 
 ## 🧹 Components Breakdown
 
